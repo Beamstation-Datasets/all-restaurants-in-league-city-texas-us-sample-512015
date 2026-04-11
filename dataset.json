@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for League City in the Lone Star State with a population of over 114k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in League City, Texas, US",
+  "export_job_id": "edeb5553-1ab6-42f8-9605-51abc4c15e78",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 512015,
+  "location_name": "League City",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-league-city-texas-us-sample-512015",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/512015/beamstation_512015_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.74,
+  "sample_records": 19,
+  "sample_sha256": "791dad2316a0f6c197d1601a4c1c8aea087d80966a92c167649fbe8dc17198ac",
+  "sample_size_bytes": 88210,
+  "total_records": 195,
+  "updated_at": "2026-04-09T12:35:09.642107+00:00"
+}
