@@ -1,6 +1,6 @@
 # All Restaurants in League City, Texas, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `512015` |
 | Location | League City |
 | Category | Restaurants |
-| Full dataset size | 197 records |
-| Free sample size | 19 records (9.64%) |
-| Last export | 2026-04-16T12:35:10.328371+00:00 |
+| Full dataset size | 159 records |
+| Free sample size | 15 records (9.43%) |
+| Last export | 2026-04-23T11:53:46.201135+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-league-city-texas-us-sample-512015/releases/download/sample-latest/beamstation_512015_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
