@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eafd51b6-24ee-4ada-ab65-0e0416ee62db",
+  "export_job_id": "7dac1875-961f-442b-961b-03f8f357778b",
   "id_short": 512015,
-  "published_at": "2026-04-23T19:28:20Z",
+  "published_at": "2026-04-30T19:26:57Z",
   "repo_name": "all-restaurants-in-league-city-texas-us-sample-512015",
   "sample_asset_name": "beamstation_512015_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/512015/beamstation_512015_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "0b2c220e443b158ef664993d7ac63f65b2c613c1da2a8d9bc231b2b6a7794a87",
-  "sample_size_bytes": 73319,
-  "total_records": 159
+  "sample_records": 20,
+  "sample_sha256": "ec8a7b9b26c1042b4e93774f644099d5cf28e59dc9ca21bb9614b8e4e660016f",
+  "sample_size_bytes": 87801,
+  "total_records": 206
 }
